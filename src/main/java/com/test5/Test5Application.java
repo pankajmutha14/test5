@@ -12,9 +12,9 @@ public class Test5Application {
 		boolean isPresent=false;
 		int y = 200;
 		char x = 'a';
-   	int y = 200;
+         	int y = 200;
 		double z = 10.3;
-    boolean isPresent=false;
+                boolean isPresent=false;
 		float m = 10.3f;
 		SpringApplication.run(Test5Application.class, args);
 	}
